@@ -1,8 +1,8 @@
 # 🥷 BLACKVEIN OSINT ENGINE 2026
 > **Created by: Leh**
 
-![Blackvein Banner](https://raw.githubusercontent.com/aleeeh2006-del/BlackVein/main/banner.png) 
-*(Nota: Você pode subir aquela imagem vermelha para o GitHub com o nome banner.png depois)*
+![Blackvein Banner](https://raw.githubusercontent.com/aleeeh2006-del/BlackVein/main/banner.png)
+
 
 ## 🔴 Sobre o Blackvein
 O **Blackvein** é uma ferramenta de OSINT moderna e ultra-rápida desenvolvida para o Termux. Focada em rastreamento de nomes de usuário em redes sociais, utilizando técnicas assíncronas para máxima performance em 2026.
